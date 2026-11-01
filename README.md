@@ -17,6 +17,9 @@ calls them back, keeps your CRM in order — and works on your own computer like
 
 Notes from building Callbot — what we shipped, what broke, what we learned. Newest first in [`posts/`](posts/).
 
+- 1 Nov 2026 — [Most lost clients are not lost deals — they are unanswered messages](posts/2026-11-01-unanswered-messages.md)
+- 1 Nov 2026 — [Every customer is a private room](posts/2026-11-01-private-rooms.md)
+
 ## The story
 
 Callbot started in Dalat, Vietnam, from a simple problem: small hotels and shops lose clients because nobody answers at night,
