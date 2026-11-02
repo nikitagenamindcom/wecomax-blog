@@ -17,6 +17,7 @@ calls them back, keeps your CRM in order — and works on your own computer like
 
 Notes from building Callbot — what we shipped, what broke, what we learned. Newest first in [`posts/`](posts/).
 
+- 2 Nov 2026 — [Callbot now reads your Mac in a tenth of a second](posts/2026-11-02-hands-in-a-tenth-of-a-second.md)
 - 1 Nov 2026 — [An assistant that keeps answering when its suppliers have a bad day](posts/2026-11-01-always-an-answer.md)
 - 1 Nov 2026 — [One assistant for your phone and your computer](posts/2026-11-01-one-assistant-phone-and-computer.md)
 - 1 Nov 2026 — [Most lost clients are not lost deals — they are unanswered messages](posts/2026-11-01-unanswered-messages.md)
